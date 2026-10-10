@@ -252,3 +252,11 @@ Before using this learning artifact as a definitive IWGA case-study deliverable:
 At Indra Wings, payroll is not simply the act of transferring money to employees. It is the disciplined translation of employment data and compensation policy into a traceable, explainable payroll result.
 
 **The Origin principle:** Start with the employee, the business rule, and the question payroll must answer. Then discover which SAP configuration makes that answer possible.
+
+
+## Reference links
+
+Use these source documents alongside this learning artifact. Confirm the case-specific facts and KDS configuration/workbook details against the source materials before treating illustrative examples as IWGA requirements.
+
+- **IWGA Case Study (Google Docs):** https://docs.google.com/document/d/1Q4DP2KrWVL8iyvSx-3nkTRtxaBVrSWCfq42eLexIK7M/edit?usp=sharing
+- **KDS Doc / Workbook (Google Sheets):** https://docs.google.com/spreadsheets/d/12Fn_krY4caSle7dwNdaNDrfKvVoib3WkhsrckDq0WFk/edit?usp=sharing
